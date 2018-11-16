@@ -12,3 +12,7 @@ On May 2 2018, Greg Pittman wrote to the mailing list:
 > ```
 
 he wrote that he needed `import PIL, urllib, cStringIO` but there must be ways to simplify it.
+
+a different try by Daniel:
+
+https://github.com/dadosch/scribus_script_get_external_text/blob/master/getWeb.py
